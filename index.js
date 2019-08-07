@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 
 function iLoveBeatles(num){
   var array = [];
-  do{
+  do {
     
-  } while()
-};
+  } while();
+}
